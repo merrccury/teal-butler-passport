@@ -1,0 +1,3 @@
+[submodule "teal-passport"]
+	path = teal-passport
+	url = https://github.com/merrccury/teal-passport.git
